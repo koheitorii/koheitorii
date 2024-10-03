@@ -14,7 +14,7 @@ My homepage including the introduction of Aidia, a software for supporting to de
 [researchermap](https://researchmap.jp/wt501)  
 Profile, history and papers.
 
-[(old) GitHub](https://github.com/wt501)
+[(old) GitHub](https://github.com/wt501)  
 Dead account.
 
 ## GitHub Status
