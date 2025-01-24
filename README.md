@@ -5,6 +5,9 @@
 ![](https://img.shields.io/badge/Qt-gray?logo=qt)
 ![](https://img.shields.io/badge/Flutter-gray?logo=flutter)
 ![](https://img.shields.io/badge/HTML5-gray?logo=HTML5)
+![](https://img.shields.io/badge/CSS-gray?logo=CSS)
+![](https://img.shields.io/badge/JavaScript-gray?logo=JavaScript)
+![](https://img.shields.io/badge/Django-gray?logo=Django)
 
 ## Links
 
