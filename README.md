@@ -11,7 +11,7 @@
 
 ## Links
 
-[TRK_Library](https://trklibrary.com/)
+[TRK_Library](https://trklibrary.com/)  
 My homepage including the introduction of Aidia, a software for supporting to develop medical imaging AI.
 
 [Tokushima University EDB](http://pub2.db.tokushima-u.ac.jp/ERD/person/395180/profile-ja.html)  
